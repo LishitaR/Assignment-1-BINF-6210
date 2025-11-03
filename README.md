@@ -1,4 +1,6 @@
 # Assignments-BINF-6210
+Author: Lishita Rowjee
+Course: BINF*6210 F25 - Bioinformatics Software Tools
 
 # Assignment 1 file
 Contains Code and doc folders for assignment 1
